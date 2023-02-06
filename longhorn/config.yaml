@@ -7,7 +7,7 @@ spec:
   selector:
     app: longhorn-ui
   type: LoadBalancer
-  loadBalancerIP: 10.100.1.221
+  loadBalancerIP: 10.100.1.51
   ports:
     - name: http
       protocol: TCP

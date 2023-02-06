@@ -11,4 +11,4 @@ spec:
   - name: http
     port: 3000
     targetPort: http
-  loadBalancerIP: 10.100.1.223
+  loadBalancerIP: 10.100.1.53
